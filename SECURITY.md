@@ -6,7 +6,7 @@ Email **security@nolus.io**. Do not open a public issue or PR for security matte
 
 ## Scope
 
-Covers the Nolus blockchain, smart contracts, and webapp. The bounty program focuses on:
+Covers the Nolus blockchain, smart contracts, the Solana program (ibc-solray), and webapp. The bounty program focuses on:
 
 - Theft or freezing of principal funds
 - Theft or freezing of unclaimed yields
